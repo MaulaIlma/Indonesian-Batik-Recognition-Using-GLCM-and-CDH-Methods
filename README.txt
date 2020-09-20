@@ -4,3 +4,7 @@ untuk menjalankan program sudah disediakan source code untuk metode GLCM, CDH, u
 serta file.mat hasil dari setiap proses, terdapat juga hasil model svm dalam file.mat.
 
 disediakan juga GUI untuk sistem ini, dengan menjalankan file cobaMaul.m pada MATLAB.
+
+Jurnal ada di link ini >>> https://jurnal.uns.ac.id/ijai/article/view/41591
+
+
